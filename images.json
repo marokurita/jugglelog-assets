@@ -1,0 +1,9 @@
+{
+  "icons": [
+    { "name": "ball", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/icons/icon_ball.png" },
+    { "name": "club", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/icons/icon_club.png" }
+  ],
+  "banners": [
+    { "name": "main", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/banners/banner_jugglelog.png" }
+  ]
+}
