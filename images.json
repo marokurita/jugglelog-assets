@@ -1,9 +1,49 @@
 {
   "icons": [
-    { "name": "ball", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/icons/icon_ball.png" },
-    { "name": "club", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/icons/icon_club.png" }
+    { "name": "about_creator", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_about_creator.png" },
+    { "name": "add", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_add.png" },
+    { "name": "ball", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_ball.png" },
+    { "name": "bike", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_bike.png" },
+    { "name": "blood_pressure", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_blood_pressure.png" },
+    { "name": "bounce_ball", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_bounce_ball.png" },
+    { "name": "box", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_box.png" },
+    { "name": "club", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_club.png" },
+    { "name": "cup", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_cup.png" },
+    { "name": "custom", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_custom.png" },
+    { "name": "dance", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_dance.png" },
+    { "name": "diabolo", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_diabolo.png" },
+    { "name": "eat", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_eat.png" },
+    { "name": "edit", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_edit.png" },
+    { "name": "favorite", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_favorite.png" },
+    { "name": "flower_stick", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_flower_stick.png" },
+    { "name": "hat", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_hat.png" },
+    { "name": "home", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_home.png" },
+    { "name": "hoop", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_hoop.png" },
+    { "name": "jugglelog_app", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_jugglelog_app.png" },
+    { "name": "katana", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_katana.png" },
+    { "name": "knife", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_knife.png" },
+    { "name": "ninja_meteor", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_ninja_meteor.png" },
+    { "name": "plate", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_plate.png" },
+    { "name": "poi", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_poi.png" },
+    { "name": "ring", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_ring.png" },
+    { "name": "rubik_cube", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_rubik_cube.png" },
+    { "name": "run", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_run.png" },
+    { "name": "setting", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_setting.png" },
+    { "name": "sleep", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_sleep.png" },
+    { "name": "stick", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_stick.png" },
+    { "name": "swim", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_swim.png" },
+    { "name": "sword", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_sword.png" },
+    { "name": "tight_rope", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_tight_rope.png" },
+    { "name": "time", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_time.png" },
+    { "name": "training_log", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_training_log.png" },
+    { "name": "weight", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_weight.png" },
+    { "name": "workout", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/icons/icon_workout.png" }
   ],
   "banners": [
-    { "name": "main", "url": "https://github.com/ユーザー名/jugglelog-assets/raw/main/banners/banner_jugglelog.png" }
+    { "name": "jugglelog", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/banners/banner_jugglelog.png" },
+    { "name": "jugglelog_slim", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/banners/banner_jugglelog_slim.png" }
+  ],
+  "others": [
+    { "name": "maro_profile", "url": "https://github.com/marokurita/jugglelog-assets/raw/main/others/maro_profile.jpg" }
   ]
 }
